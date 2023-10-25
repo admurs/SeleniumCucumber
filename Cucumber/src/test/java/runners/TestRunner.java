@@ -18,4 +18,5 @@ import org.junit.runner.RunWith;
 )
 public class TestRunner {
 //git için ekleme yapıldı
+        //ikinci kez git için ekleme yapıldı
 }
